@@ -38,9 +38,17 @@ readable-stream@~1.0.2:
     isarray "0.0.1"
     string_decoder "~0.10.x"
 
+regexper.js:
+  version "1.0.6"
+  resolved "http://registry.npm.taobao.org/regexper.js/download/regexper.js-1.0.6.tgz#3c0e996cbf7e40968dd52228b6f4d59973c6b3dd"
+
 semver@~4.3.3:
   version "4.3.6"
   resolved "http://registry.npm.taobao.org/semver/download/semver-4.3.6.tgz#300bc6e0e86374f7ba61068b5b1ecd57fc6532da"
+
+sprintf:
+  version "0.1.5"
+  resolved "http://registry.npm.taobao.org/sprintf/download/sprintf-0.1.5.tgz#8f83e39a9317c1a502cb7db8050e51c679f6edcf"
 
 string_decoder@~0.10.x:
   version "0.10.31"

@@ -14,6 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0",
-    "log4js": "^0.6.38"
+    "log4js": "^0.6.38",
+    "regexper.js": "^1.0.6",
+    "sprintf": "^0.1.5"
   }
 }
