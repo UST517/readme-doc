@@ -18,10 +18,5 @@ program
     .description('init template file')
     .action(readmedoc.gen)
 
-program.on('--help', function() {
-    console.log('   -r, --routerPath  path of your route file');
-    console.log('   -e, --errorPath   path of your exception file');
-    console.log('   -m, --modulePath  path of your database modules directory');
-  });
 
 module.exports = program;

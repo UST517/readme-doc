@@ -16,8 +16,8 @@
 |        limit            |       限制返回数量（分页） |
 |        skip             |       跳过返回数量（分页） |
 
-<!- errors ->
+<!- errors /test/data/exception.js->
 
-<!- modules ->
+<!- models /test/data/models->
 
-<!- routes ->
+<!- routes /test/data/routes.js->
