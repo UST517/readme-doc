@@ -1,0 +1,18 @@
+{
+  "name": "readme-doc",
+  "version": "1.0.0",
+  "description": "generate documentation for your API automatically",
+  "main": "index.js",
+  "bin": {
+    "mydeploy": "bin/mydeploy.js"
+  },
+  "repository": {
+    "url": "git@github.com:kelvv/readme-doc.git",
+    "type": "git"
+  },
+  "author": "kelvv <kelvv@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
