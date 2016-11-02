@@ -1,0 +1,23 @@
+# Brief
+
+##### headers:
+
+|        **name**         |       **value**       |
+| :-----------------      | :-------------------: |
+|  x-authorization-token  |          token        |
+|  x-app-platform         |     web , web-admin   |
+|  x-app-error            |     true , false      |
+
+##### querys:
+
+|        **name**         |       **detail**       |
+| :-----------------      | :-------------------: |
+|        sort             |          排序           |
+|        limit            |       限制返回数量（分页） |
+|        skip             |       跳过返回数量（分页） |
+
+<!- errors ->
+
+<!- modules ->
+
+<!- routes ->

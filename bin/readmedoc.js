@@ -4,5 +4,4 @@
 
 var readmedoc   = require('../lib');
 var option     = load('../cli/parse').parse(process.argv);
-
-readmedoc.gen(option);
+if(option.args.length === 0) option.help();
