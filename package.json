@@ -4,7 +4,7 @@
   "description": "generate documentation for your API automatically",
   "main": "./lib/index.js",
   "bin": {
-    "rd": "bin/readmedoc.js"
+    "readme-doc": "bin/readmedoc.js"
   },
   "repository": {
     "url": "git@github.com:kelvv/readme-doc.git",
