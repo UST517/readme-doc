@@ -20,7 +20,7 @@
 #### error code table:
 
 | **code** | **detial** | 
- |:---|:---:|
+|:---|:---:|
 | 403 | Access denied |
 | 404 | Not Found |
 | 422 | Invalid data |
