@@ -8,6 +8,8 @@ As a back-end nodejs developer , After the completion of coding , you need a doc
 
 This project help you to generate api document automatically
 
+[Demo](https://github.com/kelvv/readme-doc/blob/master/README-api.md)
+
 #Installation
 
 using [npm](http://npmjs.org/) (the recommended way):
