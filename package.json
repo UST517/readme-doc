@@ -1,10 +1,10 @@
 {
   "name": "readme-doc",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "generate documentation for your API automatically",
   "main": "./lib/index.js",
   "bin": {
-    "readme-doc": "bin/readmedoc.js"
+    "readmedoc": "bin/readmedoc.js"
   },
   "repository": {
     "url": "git@github.com:kelvv/readme-doc.git",
