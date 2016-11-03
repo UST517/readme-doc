@@ -61,6 +61,7 @@ now ,you got    **README.template**  file  in the root path of your project
  you can change your headers table or querys table
 
  the most importment things is to change the tag's path if you need it 
+
  ```<!- errors /path/to/your/exception/file ->```
  ```<!- routes /path/to/your/routes/file ->```
 
