@@ -32,4 +32,43 @@
 
 <!- models /test/data/models ->
 
-<!- routes /test/data/routes.js ->
+
+
+# ***** ACCOUNT *****
+
+#### POST  /account/signin/wechat  
+``` 
+ /*
+    body : {
+        openId   : string,
+        regionId : objectId,
+    }
+*/
+
+```
+#### GET  /region/:_regionId/login/historys  
+``` 
+ /*
+    params : {
+        _regionId    : objectId
+    }
+*/
+
+```
+
+# ***** REGION *****
+
+#### PUT  /region/:_id  
+``` 
+ /*
+    params : {
+        _id   : objectId
+    }
+
+    body : {
+        name   : string,
+        state  : string   //'1','2'
+    }
+*/
+
+```
