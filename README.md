@@ -30,7 +30,52 @@
 | 1001 | Illegal token |
 
 
-<!- models /test/data/models ->
+
+# Models
+
+
+## 1.1  Banner  
+##### Structure: 
+```
+
+
+{
+    link: String,
+    title: String,
+    isValid: {
+        type: Boolean,
+        default: true
+    }
+}
+
+{
+    openId: String,
+    nickname: String,
+    isValid: {
+        type: Boolean,
+        default: true
+    }
+}
+ 
+```
+
+
+## 1.2  User  
+##### Structure: 
+```
+
+
+User = {
+    openId: String,
+    nickname: String,
+    isValid: {
+        type: Boolean,
+        default: true
+    }
+}
+ 
+```
+
 
 
 
