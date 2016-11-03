@@ -39,18 +39,9 @@
 ```
 
 
-{
+Banner = {
     link: String,
     title: String,
-    isValid: {
-        type: Boolean,
-        default: true
-    }
-}
-
-{
-    openId: String,
-    nickname: String,
     isValid: {
         type: Boolean,
         default: true
