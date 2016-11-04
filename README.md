@@ -26,7 +26,7 @@ And readme-doc will be installed  to your project path.
 
  ```
 $ cd /path/to/your/project
-$ readme-doc init
+$ ./node_modules/.bin/readmedoc init
 ```
 now ,you got    **README.template**  file  in the root path of your project
 
@@ -70,7 +70,7 @@ now ,you got    **README.template**  file  in the root path of your project
 * ### Generate reade file   
 
  ```
-$ readme-doc gen
+$ ./node_modules/.bin/readmedoc gen
 ```
 
 now , your readme.md will update automatically
