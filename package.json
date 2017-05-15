@@ -1,6 +1,6 @@
 {
   "name": "readme-doc",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "generate documentation for your API automatically",
   "main": "./lib/index.js",
   "bin": {
